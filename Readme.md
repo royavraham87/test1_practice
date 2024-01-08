@@ -1,7 +1,7 @@
 <h1>
 This is my Readme file for the first test practice
 
-<p>
+<h2>
 This progrem is calling for functions that are located on different libreries and link them together. the program does the following things:
 <br>
 <br>
